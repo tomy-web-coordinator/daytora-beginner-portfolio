@@ -73,9 +73,11 @@ body.is-fixed {
 .section__head-main {
   font-size: 40px;
   letter-spacing: 0.1em;
+  font-weight: 500;
 }
 .section__head-sub {
   font-size: 11px;
+  font-weight: 400;
 }
 .section__lead-text {
   font-size: 16px;
@@ -146,6 +148,7 @@ body.is-fixed {
   display: block;
   font-size: 40px;
   letter-spacing: 0.1em;
+  font-weight: 500;
 }
 .fv__heading-sub {
   margin-top: 12px;
